@@ -1,9 +1,8 @@
-local place = game.PlaceId
+local place = tostring(game.PlaceId)
 
 local scripts = {
-
-    [537413528] = "https://raw.githubusercontent.com/notwR4o/icyn/refs/heads/main/baft",
-    [79268393072444] = "https://raw.githubusercontent.com/notwR4o/icyn/refs/heads/main/lemons",
+    ["537413528"] = "https://raw.githubusercontent.com/notwR4o/icyn/refs/heads/main/baft",
+    ["79268393072444"] = "https://raw.githubusercontent.com/notwR4o/icyn/refs/heads/main/lemons",
 }
 
 local url = scripts[place]
