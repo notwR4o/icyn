@@ -1,16 +1,3 @@
-              🚀 Icyn — Skidding is for losers 🚀
-----------------------------------------------------------------
-   One line loads all supported games:
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/notwR4o/icyn/refs/heads/main/loader"))()
-----------------------------------------------------------------
-   Supported:
-   • Sell Lemons
-   • Build A Boat (BABFT)
-   
-----------------------------------------------------------------
-   Discord: https://discord.gg/icyn
-----------------------------------------------------------------
-
 local place = game.PlaceId
 
 local scripts = {
